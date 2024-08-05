@@ -3,6 +3,8 @@ My name's Enrico, I am an experience backend engineer branching out to ML and fr
 
 My main area of interest is local LLMs, either on device or on premise: I am currently learning RAG, and especially Graph RAG because I have quite a bit of experience with Neo4J and Cypher.
 
+Also, because I already have some experience with Docker Compose I want to upgrade to Kubernetes, wish me luck 😅
+
 Also, since I bought a laptop with an NPU I am trying to learn as much as possible about NPUs and how to leverage them: you can see some benchmarks [here](https://medium.com/@Enrico_Rampazzo/what-i-learned-from-running-llama-3-locally-on-an-ultralight-laptop-without-a-gpu-3dd4236eb547)
 
 ## My tech stack
@@ -22,13 +24,13 @@ Also, since I bought a laptop with an NPU I am trying to learn as much as possib
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 
-## CI/CD
+### CI/CD
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-## Let's connect
+## Let's work together!
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enricorampazzo/)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01eefa14727e06908f)
 <!--
 **enricorampazzo/enricorampazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
