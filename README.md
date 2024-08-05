@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name's Enrico, I am an experience backend engineer branching out to ML and freelancing :)
+My name's Enrico, I am an experienced backend engineer branching out to ML and freelancing :)
 
 My main area of interest is local LLMs, either on device or on premise: I am currently learning RAG, and especially Graph RAG because I have quite a bit of experience with Neo4J and Cypher.
 
