@@ -5,7 +5,7 @@ My main area of interest is local LLMs, either on device or on premise: I am cur
 
 Also, because I already have some experience with Docker Compose I want to upgrade to Kubernetes, wish me luck 😅
 
-Also, since I bought a laptop with an NPU I am trying to learn as much as possible about NPUs and how to leverage them: you can see some benchmarks [here](https://medium.com/@Enrico_Rampazzo/what-i-learned-from-running-llama-3-locally-on-an-ultralight-laptop-without-a-gpu-3dd4236eb547)
+Last but not least, since I bought a laptop with an NPU I am trying to learn as much as possible about NPUs and how to leverage them: you can see some benchmarks [here](https://medium.com/@Enrico_Rampazzo/what-i-learned-from-running-llama-3-locally-on-an-ultralight-laptop-without-a-gpu-3dd4236eb547)
 
 ## My tech stack
 
