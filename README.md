@@ -1,11 +1,12 @@
 ## Hi there 👋
 My name's Enrico, I am an experienced backend engineer branching out to ML and freelancing :)
 
-My main area of interest is local LLMs, either on device or on premise: I am currently learning RAG, and especially Graph RAG because I have quite a bit of experience with Neo4J and Cypher.
+My main area of interest is local LLMs, either on device or on premise: an example of this is my [DUitbetter chatbot](http://duitbetter.enricorampazzo.tech) which answers questions about [DU](www.du.ae) offers and products. Internally it performs cosine
+similarity between the question from the user and the questions in the website. The answers to the most similar questions are then injected in the LLM prompt which uses them to answer the user question
 
-Also, because I already have some experience with Docker Compose I want to upgrade to Kubernetes, wish me luck 😅
-
-Last but not least, since I bought a laptop with an NPU I am trying to learn as much as possible about NPUs and how to leverage them: you can see some benchmarks [here](https://medium.com/@Enrico_Rampazzo/what-i-learned-from-running-llama-3-locally-on-an-ultralight-laptop-without-a-gpu-3dd4236eb547)
+## My prototypes
+* [Du it better](http://duitbetter.enricorampazzo.tech): a better chatbot for [DU telecom](www.du.ae) this is my first attempt at a graph RAG application
+* [DAMHelper](https://huggingface.co/spaces/enricorampazzo/DAMHelper): a small app to help you fill in those tedious work permit request forms from Dubai Asset Management
 
 ## My tech stack
 
@@ -32,17 +33,3 @@ Last but not least, since I bought a laptop with an NPU I am trying to learn as 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enricorampazzo/)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01eefa14727e06908f)
-<!--
-**enricorampazzo/enricorampazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
